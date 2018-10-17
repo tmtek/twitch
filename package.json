@@ -1,0 +1,14 @@
+{
+  "name": "@tmtek/twitch",
+  "version": "0.0.3",
+  "description": "Straightforward consumption of the Twitch API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tmtek",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
